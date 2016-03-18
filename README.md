@@ -1,6 +1,6 @@
 # Angular2+Webpack Quick Start
 
-A starter for Angular2 using Webpack.
+A starter for Angular2(beta9) using Webpack.
 
 # Dependencies
 
